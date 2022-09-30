@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PackagesApp</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="check_balance">Check Balance</string>
+    <string name="card_recharge">Card Recharge</string>
+    <string name="get_advance">Get Advance</string>
+    <string name="balance_share">Balance Share</string>
+    <string name="search_title">Search</string>
+    <string name="all_network_pakacges">All network Pakacges</string>
+    <string name="jazz_offers">Jazz Offers</string>
+    <string name="sms_offers">Sms Offers</string>
+    <string name="call_hybrib_offers">Call / Hybrib Offers</string>
+    <string name="internet_offers">Internet Offers</string>
+    <string name="location_based_offers">Location Based Offers</string>
+    <string name="other_offers">Other Offers</string>
+    <string name="null_value">---</string>
+</resources>

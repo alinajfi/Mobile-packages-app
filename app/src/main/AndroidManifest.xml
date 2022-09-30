@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="najfi.ali67.packagesapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PackagesApp">
+        <activity
+            android:name=".Activities.UphoneActivity"
+            android:exported="false"
+            android:theme="@style/Theme.UphoneActivityTheme"
+            />
+        <activity
+            android:name=".Activities.TelenorActivity"
+            android:exported="false"
+            android:theme="@style/Theme.TelenorActivityTheme"
+            />
+        <activity
+            android:name=".Activities.MasterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.PackageDetails"
+            android:exported="false"
+            android:theme="@style/Theme.TelenorActivityTheme"
+            />
+        <activity
+            android:name=".Activities.ZongActivity"
+            android:exported="false"
+            android:theme="@style/Theme.ZongActivityTheme" />
+        <activity
+            android:name=".Activities.JazzActivity"
+            android:exported="false"
+            android:theme="@style/Theme.JazzActivityTheme" />
+        <activity
+            android:name=".Activities.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

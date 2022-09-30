@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="uphoneeTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:background">@drawable/smallbtnshape</item>
+    </style>
+
+</resources>

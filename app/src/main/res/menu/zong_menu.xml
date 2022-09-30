@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:icon="@drawable/menuicon" android:title="@string/check_balance"
+        />
+
+    <item android:icon="@drawable/menuicon" android:title="@string/get_advance"/>
+    <item android:icon="@drawable/menuicon" android:title="@string/balance_share"/>
+
+    <item android:icon="@drawable/menuicon" android:title="@string/card_recharge"/>
+
+
+</menu>
